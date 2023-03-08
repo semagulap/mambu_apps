@@ -1,0 +1,13 @@
+<app>
+<id>EWSApp002</id>
+<name>Early Warning System Application</name>
+<provider>Akbank AG-Innovance</provider>
+<description>EWS Manual Info</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>EWS Manual Info</label>
+<url>https://corebanking-tst.akbank.de/early-warning-system/manual-info</url>
+</extensionpoint>
+</app>
