@@ -1,0 +1,13 @@
+<app>
+<id>GrpApp001</id>
+<name>Group Definition</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Group Definition</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Group Definition</label>
+<url>https://corebanking-tst.akbank.de/group-definition</url>
+</extensionpoint>
+</app>
