@@ -2,12 +2,12 @@
 <id>Main001</id>
 <name>Core+</name>
 <provider>Akbank AG-Innovance</provider>
-<description>Core+</description>
+<description>Main</description>
 <uninstallUrl></uninstallUrl>
 <installUrl></installUrl>
 <extensionpoint>
 <location>EXTENSION_MENU</location>
-<label>Core+</label>
+<label>Main</label>
 <url>https://corebanking-stg.akbank.de/</url>  
 </extensionpoint>
 </app>
