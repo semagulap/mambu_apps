@@ -8,6 +8,6 @@
 <extensionpoint>
 <location>EXTENSION_MENU</location>
 <label>EWS Manual Info</label>
-<url>https://corebanking-dev-v0.akbank.de/early-warning-system/manual-info</url>
+<url>https://corebanking-v0.akbank.de/early-warning-system/manual-info</url>
 </extensionpoint>
 </app>
