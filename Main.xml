@@ -8,9 +8,10 @@
 <extensionpoint>
 <location>EXTENSION_MENU</location>
 <label>Main</label>
-<url>https://corebanking-stg.akbank.de//</url> 
+<url>https://corebanking-dev.akbank.de//</url> 
 </extensionpoint>
 </app>
+
 
 
 
