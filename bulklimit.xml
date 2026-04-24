@@ -8,6 +8,6 @@
 <extensionpoint>
 <location>EXTENSION_MENU</location>
 <label>Bulk Limit Approval</label>
-<url>https://corebanking-dev-v0.akbank.de/bulk-limit-approval</url>
+<url>https://corebanking-tst-v0.akbank.de/bulk-limit-approval</url>
 </extensionpoint>
 </app>
